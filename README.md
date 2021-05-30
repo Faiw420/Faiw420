@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Faiw420
-- 👀 I’m interested in Sneaker Botting!
 - 🌱 I’m currently learning Python in a really early beginning stadium.
 
 <!---
