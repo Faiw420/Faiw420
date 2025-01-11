@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faiw420
+- 👋 Hi, I’m Tim aka Faiw.
 - 🌱 I’m currently learning Python in a really early beginning stadium.
 
 <!---
